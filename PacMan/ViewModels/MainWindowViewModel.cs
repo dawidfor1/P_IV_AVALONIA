@@ -2,5 +2,5 @@
 
 public class MainWindowViewModel : ViewModelBase
 {
-    public string Greeting => "Here will be a  game :)!";
+    public string Greeting => "Here will be a pacman game :)!";
 }
